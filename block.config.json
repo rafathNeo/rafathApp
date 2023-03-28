@@ -1,0 +1,8 @@
+{
+  "name": "rafathApp",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/rafathNeo/rafathApp",
+    "ssh": "git@github.com:rafathNeo/rafathApp.git"
+  }
+}
